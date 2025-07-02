@@ -1,5 +1,6 @@
-# Sense of life
-by gemini-2.5-flash-lite-preview-06-17
+# Sense of Life
+
+> **by gemini-2.5-flash-lite-preview-06-17**
 
 The "sense of life" is a question that has occupied philosophers, theologians, artists, and individuals for millennia. There's no single, universally agreed-upon answer, and that's part of its profound nature. Instead, the sense of life can be understood in several ways:
 
