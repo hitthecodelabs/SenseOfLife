@@ -1,6 +1,6 @@
 # Sense of Life
 
-> **by gemini2.5-pro**
+> **by gemini-2.5-pro**
 
 ## ⚠️ Disclaimer
 
